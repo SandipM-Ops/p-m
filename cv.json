@@ -1,0 +1,306 @@
+{
+  "analyticsCode": "",
+  "pageLayout": "two-column",
+  "basics": {
+    "name": "Sandip Mandal",
+    "label": "Full Stack Developer",
+    "image": "/myavatar.jpg",
+    "email": "sandipmandal.dev@gmail.com",
+    "url": "https://github.com/SandipM03",
+    "summary": "Full-stack developer focused on React and JavaScript, with a passion for building modern web apps and exploring diverse technologies. I enjoy crafting scalable solutions and continuously learning new tools in the tech space.",
+    "theme": "blue",
+    "location": {
+      "address": "Belghoria",
+      "city": "Kolkata",
+      "countryCode": "IN",
+      "region": "India"
+    },
+    "profiles": [
+      {
+        "network": "Facebook",
+        "icon": "ri:facebook-line",
+        "username": "Sandip Mandal",
+        "url": "https://www.facebook.com/profile.php?id=61557586985348"
+      },
+      {
+        "network": "Instagram",
+        "icon": "ri:instagram-fill",
+        "username": "sandip.mandal03",
+        "url": "https://instagram.com/sandip.mandal03"
+      },
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "username": "SandipM03",
+        "url": "https://github.com/SandipM03"
+      }
+    ],
+    "beian": {
+      "mint": "",
+      "police": ""
+    }
+  },
+  "images": {
+    "intro": "Photography is the art of light, and images are the contours of memory.",
+    "list": [
+      {
+        "image": "/ai-gen.jpg",
+        "alt": "AI generated",
+        "desc": "AI generated"
+      },
+      {
+        "image": "/old-blue.png",
+        "alt": "My old PFP",
+        "desc": "My old PFP"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "JIS University",
+      "url": "https://www.jisuniversity.ac.in/",
+      "area": "81, Nilgunj Road, Agarpara, Kolkata, West Bengal 700109",
+      "studyType": "Full-time student",
+      "startDate": "2022",
+      "endDate": null
+    }
+  ],
+  "certificates": [
+    {
+      "name": "",
+      "date": "",
+      "url": "",
+      "issuer": ""
+    }
+  ],
+  "work": [
+    {
+      "name": "Personal Development",
+      "position": "Full-stack Developer",
+      "location_type": "Remote",
+      "location": "BD",
+      "url": "",
+      "startDate": "2022-06-01",
+      "endDate": null,
+      "summary": "Developing sample Projects.",
+      "highlights": [],
+      "responsibilities": [
+        "Developed and maintained frontend services using React and Typescript."
+      ],
+      "achievements": [""],
+      "skills": {
+        "Hono": "simple-icons:hono",
+        "Node": "ri:nodejs-line",
+        "Express": "simple-icons:express",
+        "Next.js": "ri:nextjs-fill",
+        "React": "mdi:react",
+        "mongoDB": "simple-icons:mongodb",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github",
+        "Vite": "simple-icons:vite",
+        "Astro": "simple-icons:astro"
+      }
+    },
+    {
+      "name": "",
+      "position": "Full-stack Developer",
+      "location_type": "Remote",
+      "location": "BD",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "2024-02-11",
+      "summary": "Create beautiful designs on order of creation.",
+      "highlights": ["Completed 95% need of client proudly."],
+      "responsibilities": [
+        "Developed complete pages.",
+        "Integrated frontend and backend logic."
+      ],
+      "achievements": ["Ensured smooth project execution."],
+      "skills": {
+        "HTML": "simple-icons:html5",
+        "CSS": "ri:css3-fill",
+        "JavaScript": "simple-icons:javascript",
+        "TypeScript": "simple-icons:typescript",
+        "Vite": "simple-icons:vite",
+        "Node": "ri:nodejs-line",
+        "Astro": "simple-icons:astro",
+        "mongoDB": "simple-icons:mongodb",
+        "Tailwind": "mdi:tailwind",
+        "bootstrap": "simple-icons:bootstrap",
+        "chakraUI": "simple-icons:chakraui",
+        "React": "mdi:react",
+        "GitHub": "mdi:github",
+        "Git": "mdi:git"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "icon": "simple-icons:html5",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "icon": "ri:css3-fill",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+    },
+    {
+      "name": "JavaScript",
+      "icon": "simple-icons:javascript",
+      "level": "Expert",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "icon": "mdi:tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "icon": "simple-icons:typescript",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "icon": "ri:nodejs-line",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+    },
+    {
+      "name": "MongoDB",
+      "icon": "simple-icons:mongodb",
+      "level": "Intermediate",
+      "keywords": ["Databases", "File", "Data Storage", "Backend"]
+    },
+    {
+      "name": "Git",
+      "icon": "mdi:git",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "GitHub",
+      "icon": "mdi:github",
+      "level": "Expert",
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+    },
+    {
+      "name": "Next.js",
+      "icon": "ri:nextjs-line",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "icon": "mdi:react",
+      "level": "Expert",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Vite",
+      "icon": "simple-icons:vite",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Build Tool"]
+    },
+    {
+      "name": "Astro",
+      "icon": "simple-icons:astro",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "SSR", "Static Generation"]
+    },
+    {
+      "name": "Shell",
+      "icon": "simple-icons:shell",
+      "level": "Intermediate",
+      "keywords": ["Scripting", "Automation"]
+    },
+    {
+      "name": "Linux",
+      "icon": "simple-icons:linux",
+      "level": "Intermediate",
+      "keywords": ["OS", "Scripting", "Automation"]
+    },
+    {
+      "name": "Vercel",
+      "icon": "simple-icons:vercel",
+      "level": "Intermediate",
+      "keywords": ["Serverless", "Static Site Hosting"]
+    },
+    {
+      "name": "Netlify",
+      "icon": "simple-icons:netlify",
+      "level": "Intermediate",
+      "keywords": ["Serverless", "Static Site Hosting"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Bengali",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": ["Fullstack Web-Development", "Software Engineering"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Sandip ",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "FinanceJini",
+      "image": {
+        "url": "/financsjini.png",
+        "position": "container",
+        "dark": "/financsjini.png"
+      },
+      "isActive": true,
+      "description": "FinanceJini, your AI-powered financial assistance platform. Let FinanceJini guide you toward smarter financial decisions and a secure future!",
+      "highlights": ["NextJS, Tailwind,Supabase,Prisma,Inngest,Clerk"],
+      "url": "https://financejini.zenux.live/",
+      "github": "https://github.com/SandipM03"
+    },
+    
+    {
+      "name": "Adding Soon",
+      "image": {
+        "url": "https://img.freepik.com/free-vector/red-grunge-style-coming-soon-design_1017-26691.jpg?w=826&t=st=1728548007~exp=1728548607~hmac=3cadb46dbeb3f9eecd516e4ff685ed5d3185e0b110da27a7097db2ce9087d64d",
+        "position": "background"
+      },
+      "isActive": true,
+      "description": "IDK",
+      "highlights": ["Coming Soon"],
+      "url": "https://img.freepik.com/free-vector/red-grunge-style-coming-soon-design_1017-26691.jpg?w=826&t=st=1728548007~exp=1728548607~hmac=3cadb46dbeb3f9eecd516e4ff685ed5d3185e0b110da27a7097db2ce9087d64d"
+    }
+  ]
+}
